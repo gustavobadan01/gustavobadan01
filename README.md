@@ -1,4 +1,5 @@
-## Olá! Eu sou o Gustavo Badan 👋
+## Eai, como você está ? 👋
+#Seja você um colega de curso, um possível empregador ou apenas alguém interessado em tecnologia, estou feliz por você estar aqui. Este é o meu portfólio digital, onde compartilho minha jornada acadêmica e minha paixão pelo mundo da tecnologia e do meu Bacharelado em Sistemas de Informação.
 
 <div style="display: inline_block"><br> 
 
