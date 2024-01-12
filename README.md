@@ -2,13 +2,10 @@
 Seja você um colega de curso, um possível empregador ou apenas alguém interessado em tecnologia, estou feliz por você estar aqui. Este é o meu espaço digital, onde compartilho minha jornada acadêmica e minha paixão pelo mundo da tecnologia e do meu Bacharelado em Sistemas de Informação.
 
 <div style="display: inline_block"><br> 
-
-  #### Estudando atualmente.
   <img align="center" alt="PHP" height="30" width="auto" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Js" height="30" width="auto" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="HTML" height="30" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="30" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Bootstrap" height="30" width="auto" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)">
   <img align="center" alt="MySQL" height="30" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
