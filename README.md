@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Eai,+como+você+está+?+👋;Bem-vindo+ao+Meu+Perfil!" />
 </h1>
 
-Seja você um colega de curso, um possível empregador ou apenas alguém interessado em tecnologia, estou feliz por você estar aqui. Este é o meu espaço digital, onde compartilho minha jornada acadêmica e minha paixão pelo mundo da tecnologia e do meu Bacharelado em Sistemas de Informação.
+Seja você um colega de curso, um possível empregador ou apenas alguém interessado em tecnologia, estou feliz por você estar aqui. Este é o meu espaço digital, onde compartilho minha jornada acadêmica em BSI.
 
 ##
 
